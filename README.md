@@ -19,3 +19,6 @@ CSR expenditure aggregated at state level per year.
 SDG index values averaged for states to create Avg_sdg_score.
 Scatterplots designed to visualize CSR (x-axis) vs SDG score (y-axis).
 Geo-map used to indicate CSR amount concentration by state.
+Data Sources:
+CSR Expenditure Data: Ministry of Corporate Affairs CSR portal. 
+SDG Index Scores: NITI Aayog SDG India Index Reports.
